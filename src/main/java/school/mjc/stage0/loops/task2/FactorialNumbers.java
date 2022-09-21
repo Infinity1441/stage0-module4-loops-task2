@@ -1,6 +1,4 @@
-18 lines (16 sloc)  422 Bytes
-
-        package school.mjc.stage0.loops.task2;
+package school.mjc.stage0.loops.task2;
 
 public class FactorialNumbers {
     public void printFactorialRow(int printToInclusive) {
